@@ -1,0 +1,11 @@
+{
+    "server": "45.78.46.97",
+    "port_password": {
+        "9193": "shadowsocks"
+    },
+    "_comment": {
+        "9193": "comments_shadowsocks"
+    },
+    "method": "aes-256-cfb",
+    "timeout": 60
+}
